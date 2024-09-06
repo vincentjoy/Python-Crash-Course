@@ -1,1 +1,1 @@
-This is a project to learn Python
+This is a project for learning Python
